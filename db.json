@@ -70,5 +70,97 @@
       "content": "Bạn đang đau đầu suy nghĩ xem hôm nay sẽ phải nấu gì cho gia đình của mình. Để bạn không phải vắt óc suy nghĩ về thực đơn hàng ngày. Dinhduong.com.vn sẽ gợi ý các bạn 10 thực đơn món ăn hàng ngày đơn giản dễ nấu, bạn có thể lưu lại khi cần trổ tài nấu nướng cho mọi người trong gia đình mình.",
       "description": "<p><strong>Thực đơn cho gia đ&igrave;nh 1&nbsp;</strong></p><p>M&acirc;m cơm n&agrave;y bạn chỉ d&agrave;nh khoảng 30 ph&uacute;t l&agrave; sẽ ho&agrave;n th&agrave;nh một c&aacute;ch nhanh gọn. Đ&acirc;y l&agrave; bữa ăn ưu ti&ecirc;n rau xanh n&ecirc;n bữa ăn kh&aacute; nhẹ nh&agrave;ng, thanh m&aacute;t nhưng rất đưa cơm. Bạn v&agrave; người th&acirc;n sẽ kh&ocirc;ng cảm thấy ch&aacute;n ngấy với những m&oacute;n ăn ngập dầu mỡ cho m&ugrave;a h&egrave; n&agrave;y rồi. Thực đơn h&ocirc;m nay gồm c&oacute;:</p><ul><li>Mực nhồi thịt sốt c&agrave; chua&nbsp;</li><li>Rau muống luộc chấm mắm</li><li>C&agrave; ph&aacute;o</li><li>Canh cua đồng&nbsp;</li><li>Tr&aacute;ng miệng: Hoa quả</li></ul>"
     }
+  ],
+  "fruit": [
+    {
+      "id": 1,
+      "title": "Cà chua Đà Lạt",
+      "image": "https://hoaqua.langsonweb.com/wp-content/uploads/2020/09/hoa-qua-2.jpg",
+      "price": "100",
+      "last_price": "60",
+      "rate": 3.4,
+      "description": "Cung cấp số lượng lớn hoa quả nhập khẩu từ Úc, Mỹ tươi ngon giá rẻ tại Hà Nội. Cửa hàng hoa quả nhập khẩu 54 Lạc Long Quân Hà Nội cung cấp hoa quả nhập khẩu Úc Mỹ Nhật. Hoa quả tươi như Táo, Nho của Mỹ, Úc… đều được bảo quản trong môi trường lạnh đặc biệt từ khi hái, không chất bảo quản và các chất gây hại cho sức khỏe."
+    },
+    {
+      "id": 2,
+      "title": "Vải nhập khẩu",
+      "image": "https://hoaqua.langsonweb.com/wp-content/uploads/2020/09/hoa-qua-4-300x279.jpg",
+      "price": "100",
+      "last_price": "60",
+      "rate": 3.4,
+      "description": "Cung cấp số lượng lớn hoa quả nhập khẩu từ Úc, Mỹ tươi ngon giá rẻ tại Hà Nội. Cửa hàng hoa quả nhập khẩu 54 Lạc Long Quân Hà Nội cung cấp hoa quả nhập khẩu Úc Mỹ Nhật. Hoa quả tươi như Táo, Nho của Mỹ, Úc… đều được bảo quản trong môi trường lạnh đặc biệt từ khi hái, không chất bảo quản và các chất gây hại cho sức khỏe."
+    },
+    {
+      "id": 3,
+      "title": "Táo nhập khẩu",
+      "image": "https://hoaqua.langsonweb.com/wp-content/uploads/2020/09/hoa-qua-3-300x274.jpg",
+      "price": "100",
+      "last_price": "60",
+      "rate": 3.4,
+      "description": "Cung cấp số lượng lớn hoa quả nhập khẩu từ Úc, Mỹ tươi ngon giá rẻ tại Hà Nội. Cửa hàng hoa quả nhập khẩu 54 Lạc Long Quân Hà Nội cung cấp hoa quả nhập khẩu Úc Mỹ Nhật. Hoa quả tươi như Táo, Nho của Mỹ, Úc… đều được bảo quản trong môi trường lạnh đặc biệt từ khi hái, không chất bảo quản và các chất gây hại cho sức khỏe."
+    },
+    {
+      "id": 4,
+      "title": "Bom mỹ",
+      "image": "https://hoaqua.langsonweb.com/wp-content/uploads/2020/09/hoa-qua-1-300x278.jpg",
+      "price": "100",
+      "last_price": "60",
+      "rate": 3.4,
+      "description": "Cung cấp số lượng lớn hoa quả nhập khẩu từ Úc, Mỹ tươi ngon giá rẻ tại Hà Nội. Cửa hàng hoa quả nhập khẩu 54 Lạc Long Quân Hà Nội cung cấp hoa quả nhập khẩu Úc Mỹ Nhật. Hoa quả tươi như Táo, Nho của Mỹ, Úc… đều được bảo quản trong môi trường lạnh đặc biệt từ khi hái, không chất bảo quản và các chất gây hại cho sức khỏe."
+    },
+    {
+      "id": 5,
+      "title": "Quả nhãn",
+      "image": "https://suckhoe123.vn/uploads/suc-khoe/2021_05/20210316_064029_550696_an-qua-nhan-co-tot-.max-1800x1800.jpg",
+      "price": "100",
+      "last_price": "60",
+      "rate": 3.4,
+      "description": "Cung cấp số lượng lớn hoa quả nhập khẩu từ Úc, Mỹ tươi ngon giá rẻ tại Hà Nội. Cửa hàng hoa quả nhập khẩu 54 Lạc Long Quân Hà Nội cung cấp hoa quả nhập khẩu Úc Mỹ Nhật. Hoa quả tươi như Táo, Nho của Mỹ, Úc… đều được bảo quản trong môi trường lạnh đặc biệt từ khi hái, không chất bảo quản và các chất gây hại cho sức khỏe."
+    },
+    {
+      "id": 6,
+      "title": "Quả xoài",
+      "image": "https://www.hsp.vn/wp-content/uploads/2020/04/qua-xoai.jpg",
+      "price": "100",
+      "last_price": "60",
+      "rate": 3.4,
+      "description": "Cung cấp số lượng lớn hoa quả nhập khẩu từ Úc, Mỹ tươi ngon giá rẻ tại Hà Nội. Cửa hàng hoa quả nhập khẩu 54 Lạc Long Quân Hà Nội cung cấp hoa quả nhập khẩu Úc Mỹ Nhật. Hoa quả tươi như Táo, Nho của Mỹ, Úc… đều được bảo quản trong môi trường lạnh đặc biệt từ khi hái, không chất bảo quản và các chất gây hại cho sức khỏe."
+    },
+    {
+      "id": 7,
+      "title": "Quả hồng xiêm",
+      "image": "https://www.btaskee.com/wp-content/uploads/2022/05/sapodilla.jpg",
+      "price": "100",
+      "last_price": "60",
+      "rate": 3.4,
+      "description": "Cung cấp số lượng lớn hoa quả nhập khẩu từ Úc, Mỹ tươi ngon giá rẻ tại Hà Nội. Cửa hàng hoa quả nhập khẩu 54 Lạc Long Quân Hà Nội cung cấp hoa quả nhập khẩu Úc Mỹ Nhật. Hoa quả tươi như Táo, Nho của Mỹ, Úc… đều được bảo quản trong môi trường lạnh đặc biệt từ khi hái, không chất bảo quản và các chất gây hại cho sức khỏe."
+    },
+    {
+      "id": 8,
+      "title": "Dừa Tươi",
+      "image": "https://i0.wp.com/vietnamese.greenbud.com.vn/wp-content/uploads/sites/4/2022/05/dua2.jpg?fit=510%2C510&ssl=1",
+      "price": "100",
+      "last_price": "60",
+      "rate": 3.4,
+      "description": "Cung cấp số lượng lớn hoa quả nhập khẩu từ Úc, Mỹ tươi ngon giá rẻ tại Hà Nội. Cửa hàng hoa quả nhập khẩu 54 Lạc Long Quân Hà Nội cung cấp hoa quả nhập khẩu Úc Mỹ Nhật. Hoa quả tươi như Táo, Nho của Mỹ, Úc… đều được bảo quản trong môi trường lạnh đặc biệt từ khi hái, không chất bảo quản và các chất gây hại cho sức khỏe."
+    },
+    {
+      "id": 9,
+      "title": "Quả dứa",
+      "image": "https://benh.vn/wp-content/uploads/2018/04/cach-chon-dua-ngon-benhvn.jpg",
+      "price": "100",
+      "last_price": "60",
+      "rate": 3.4,
+      "description": "Cung cấp số lượng lớn hoa quả nhập khẩu từ Úc, Mỹ tươi ngon giá rẻ tại Hà Nội. Cửa hàng hoa quả nhập khẩu 54 Lạc Long Quân Hà Nội cung cấp hoa quả nhập khẩu Úc Mỹ Nhật. Hoa quả tươi như Táo, Nho của Mỹ, Úc… đều được bảo quản trong môi trường lạnh đặc biệt từ khi hái, không chất bảo quản và các chất gây hại cho sức khỏe."
+    },
+    {
+      "id": 10,
+      "title": "Quả chuối",
+      "image": "https://photo-cms-baonghean.zadn.vn/w1000/Uploaded/2022/nkdkswkqoc/201704/original/images1872538_K_t_qu__h_nh__nh_cho_Chu_i_58eb41b61ae0d.jpg",
+      "price": "100",
+      "last_price": "60",
+      "rate": 3.4,
+      "description": "Cung cấp số lượng lớn hoa quả nhập khẩu từ Úc, Mỹ tươi ngon giá rẻ tại Hà Nội. Cửa hàng hoa quả nhập khẩu 54 Lạc Long Quân Hà Nội cung cấp hoa quả nhập khẩu Úc Mỹ Nhật. Hoa quả tươi như Táo, Nho của Mỹ, Úc… đều được bảo quản trong môi trường lạnh đặc biệt từ khi hái, không chất bảo quản và các chất gây hại cho sức khỏe."
+    }
   ]
 }
